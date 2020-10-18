@@ -1,10 +1,4 @@
-2020-10-18 20:03:40 INFO  DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
-2020-10-18 20:03:40 INFO  DispatcherServlet:546 - Completed initialization in 10 ms
-2020-10-18 20:03:46 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.queryAllRootLevelCat =======
-2020-10-18 20:03:46 INFO  HikariDataSource:110 - DataSourceHikariCP - Starting...
-2020-10-18 20:03:47 INFO  HikariDataSource:123 - DataSourceHikariCP - Start completed.
-2020-10-18 20:03:47 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时714 毫秒 =======
-2020-10-18 20:03:53 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.queryAllRootLevelCat =======
-2020-10-18 20:03:53 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CarouselServiceImpl.queryAll =======
-2020-10-18 20:03:53 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时13 毫秒 =======
-2020-10-18 20:03:53 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时15 毫秒 =======
+2020-10-18 20:45:06 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSubCatList =======
+2020-10-18 20:45:06 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时4 毫秒 =======
+2020-10-18 20:45:06 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSubCatList =======
+2020-10-18 20:45:06 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时5 毫秒 =======
