@@ -1,0 +1,8 @@
+2020-10-03 18:12:34 INFO  ServiceLogAspect:41 - ====== 开始执行 class com.imooc.service.impl.UserServiceImpl.queryUserNameIsExist ======
+2020-10-03 18:12:34 INFO  HikariDataSource:110 - DataSourceHikariCP - Starting...
+2020-10-03 18:12:34 INFO  ServiceLogAspect:41 - ====== 开始执行 class com.imooc.service.impl.UserServiceImpl.queryUserNameIsExist ======
+2020-10-03 18:12:35 INFO  HikariDataSource:123 - DataSourceHikariCP - Start completed.
+2020-10-03 18:12:35 WARN  ServiceLogAspect:60 - =======执行结束，耗时740 毫秒 =======
+2020-10-03 18:12:35 WARN  ServiceLogAspect:60 - =======执行结束，耗时659 毫秒 =======
+2020-10-03 18:12:54 INFO  ServiceLogAspect:41 - ====== 开始执行 class com.imooc.service.impl.UserServiceImpl.queryUserNameIsExist ======
+2020-10-03 18:12:54 WARN  ServiceLogAspect:60 - =======执行结束，耗时4 毫秒 =======
