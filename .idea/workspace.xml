@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42719aba-89d1-4df8-8801-731173b9fe0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/imooc.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/imooc.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-pojo/src/main/java/com/imooc/pojo/Category.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,10 +55,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.imooc.service.impl" />
       <recent name="com.imooc.enums" />
       <recent name="com.imooc.config" />
       <recent name="com.imooc.controller" />
-      <recent name="com.imooc.service.impl" />
       <recent name="com.imooc.service" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -180,7 +180,7 @@
       <workItem from="1601704412879" duration="10938000" />
       <workItem from="1601863763368" duration="1200000" />
       <workItem from="1602226940897" duration="7956000" />
-      <workItem from="1602997987600" duration="4777000" />
+      <workItem from="1602997987600" duration="7202000" />
     </task>
     <servers />
   </component>
