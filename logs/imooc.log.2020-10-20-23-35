@@ -1,0 +1,16 @@
+2020-10-20 23:35:54 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.queryAllRootLevelCat =======
+2020-10-20 23:35:54 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CarouselServiceImpl.queryAll =======
+2020-10-20 23:35:54 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时11 毫秒 =======
+2020-10-20 23:35:54 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时10 毫秒 =======
+2020-10-20 23:35:54 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy =======
+2020-10-20 23:35:54 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时9 毫秒 =======
+2020-10-20 23:35:55 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy =======
+2020-10-20 23:35:55 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时4 毫秒 =======
+2020-10-20 23:35:57 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemById =======
+2020-10-20 23:35:57 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时3 毫秒 =======
+2020-10-20 23:35:57 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemImgList =======
+2020-10-20 23:35:57 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时5 毫秒 =======
+2020-10-20 23:35:57 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemSpecList =======
+2020-10-20 23:35:57 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时3 毫秒 =======
+2020-10-20 23:35:57 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemParam =======
+2020-10-20 23:35:57 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时5 毫秒 =======
