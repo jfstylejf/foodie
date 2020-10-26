@@ -1,0 +1,39 @@
+2020-10-27 00:33:09 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.UserServiceImpl.queryUserForLogin =======
+2020-10-27 00:33:10 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时15 毫秒 =======
+2020-10-27 00:33:14 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.UserServiceImpl.queryUserForLogin =======
+2020-10-27 00:33:14 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时7 毫秒 =======
+2020-10-27 00:33:14 INFO  CookieUtils:210 - ========== domainName: localhost ==========
+2020-10-27 00:33:14 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CarouselServiceImpl.queryAll =======
+2020-10-27 00:33:14 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.queryAllRootLevelCat =======
+2020-10-27 00:33:14 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时5 毫秒 =======
+2020-10-27 00:33:14 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时9 毫秒 =======
+2020-10-27 00:33:14 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy =======
+2020-10-27 00:33:14 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时8 毫秒 =======
+2020-10-27 00:33:20 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy =======
+2020-10-27 00:33:20 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时4 毫秒 =======
+2020-10-27 00:33:21 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy =======
+2020-10-27 00:33:21 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时5 毫秒 =======
+2020-10-27 00:33:23 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy =======
+2020-10-27 00:33:23 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时4 毫秒 =======
+2020-10-27 00:33:25 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy =======
+2020-10-27 00:33:25 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时6 毫秒 =======
+2020-10-27 00:33:26 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy =======
+2020-10-27 00:33:26 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时3 毫秒 =======
+2020-10-27 00:33:26 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy =======
+2020-10-27 00:33:26 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时3 毫秒 =======
+2020-10-27 00:33:27 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy =======
+2020-10-27 00:33:27 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时4 毫秒 =======
+2020-10-27 00:33:27 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy =======
+2020-10-27 00:33:27 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy =======
+2020-10-27 00:33:27 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时3 毫秒 =======
+2020-10-27 00:33:27 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时4 毫秒 =======
+2020-10-27 00:33:34 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemById =======
+2020-10-27 00:33:34 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryCommentCounts =======
+2020-10-27 00:33:34 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时6 毫秒 =======
+2020-10-27 00:33:34 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemImgList =======
+2020-10-27 00:33:34 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时6 毫秒 =======
+2020-10-27 00:33:34 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时4 毫秒 =======
+2020-10-27 00:33:34 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemSpecList =======
+2020-10-27 00:33:34 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时16 毫秒 =======
+2020-10-27 00:33:34 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemParam =======
+2020-10-27 00:33:34 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时17 毫秒 =======

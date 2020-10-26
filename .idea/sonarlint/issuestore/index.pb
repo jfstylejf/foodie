@@ -45,3 +45,13 @@ Gfoodie-dev-service/src/main/java/com/imooc/service/CategoryService.java,e\0\e0
 Pfoodie-dev-service/src/main/java/com/imooc/service/impl/CategoryServiceImpl.java,7\e\7e0c4c7ba2cdd0be52844e030b83ec551944fdbd
 z
 Jfoodie-dev-mapper/src/main/java/com/imooc/mapper/CategoryMapperCustom.java,6\8\6808cc6249f3d123b4c17d7ae8213e239b4f21f0
+s
+Cfoodie-dev-service/src/main/java/com/imooc/service/ItemService.java,c\b\cbf4948a9cab884e91118764c12ec42aa991645e
+j
+:foodie-dev-pojo/src/main/java/com/imooc/pojo/ItemsImg.java,e\4\e40b79cf5bc41d76de907f6b8775ae9287295170
+|
+Lfoodie-dev-service/src/main/java/com/imooc/service/impl/ItemServiceImpl.java,3\4\34c4f8a79872ef767b6c0d29d91a264aa5aa44de
+o
+?foodie-dev-pojo/src/main/java/com/imooc/pojo/vo/ItemInfoVO.java,f\b\fb1d099b542133acc6955af842caa3062fd13d7e
+v
+Ffoodie-dev-api/src/main/java/com/imooc/controller/ItemsController.java,1\6\16738231e12bf89eccbaa070cacbe8866adf04f6

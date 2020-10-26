@@ -1,0 +1,40 @@
+2020-10-27 01:17:18 INFO  DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-10-27 01:17:18 INFO  DispatcherServlet:546 - Completed initialization in 7 ms
+2020-10-27 01:17:18 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemById =======
+2020-10-27 01:17:18 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryCommentCounts =======
+2020-10-27 01:17:18 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryPagedComments =======
+2020-10-27 01:17:18 INFO  HikariDataSource:110 - DataSourceHikariCP - Starting...
+2020-10-27 01:17:19 INFO  HikariDataSource:123 - DataSourceHikariCP - Start completed.
+2020-10-27 01:17:19 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时634 毫秒 =======
+2020-10-27 01:17:19 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemImgList =======
+2020-10-27 01:17:19 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时637 毫秒 =======
+2020-10-27 01:17:19 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时639 毫秒 =======
+2020-10-27 01:17:19 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时19 毫秒 =======
+2020-10-27 01:17:19 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemSpecList =======
+2020-10-27 01:17:19 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时5 毫秒 =======
+2020-10-27 01:17:19 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemParam =======
+2020-10-27 01:17:19 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时3 毫秒 =======
+2020-10-27 01:17:27 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemById =======
+2020-10-27 01:17:27 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryCommentCounts =======
+2020-10-27 01:17:27 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryPagedComments =======
+2020-10-27 01:17:27 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时6 毫秒 =======
+2020-10-27 01:17:27 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemImgList =======
+2020-10-27 01:17:27 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时11 毫秒 =======
+2020-10-27 01:17:27 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时14 毫秒 =======
+2020-10-27 01:17:27 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时12 毫秒 =======
+2020-10-27 01:17:27 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemSpecList =======
+2020-10-27 01:17:27 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时6 毫秒 =======
+2020-10-27 01:17:27 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemParam =======
+2020-10-27 01:17:27 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时5 毫秒 =======
+2020-10-27 01:17:35 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryPagedComments =======
+2020-10-27 01:17:35 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时14 毫秒 =======
+2020-10-27 01:17:37 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryPagedComments =======
+2020-10-27 01:17:37 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时12 毫秒 =======
+2020-10-27 01:17:39 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryPagedComments =======
+2020-10-27 01:17:39 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时6 毫秒 =======
+2020-10-27 01:17:43 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryPagedComments =======
+2020-10-27 01:17:43 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时6 毫秒 =======
+2020-10-27 01:17:46 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryPagedComments =======
+2020-10-27 01:17:46 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时6 毫秒 =======
+2020-10-27 01:17:49 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryPagedComments =======
+2020-10-27 01:17:49 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时5 毫秒 =======
