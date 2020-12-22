@@ -1,0 +1,11 @@
+2020-12-22 22:50:03 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryPagedComments =======
+2020-12-22 22:50:03 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时5 毫秒 =======
+2020-12-22 22:50:05 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryPagedComments =======
+2020-12-22 22:50:05 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时9 毫秒 =======
+2020-12-22 22:50:57 INFO  Version:21 - HV000001: Hibernate Validator 6.0.16.Final
+2020-12-22 22:50:57 INFO  Application:50 - Starting Application on DESKTOP-I28N2U8 with PID 32224 (D:\Project\foodie\foodie-dev\foodie-dev-api\target\classes started by think in D:\Project\foodie\foodie-dev)
+2020-12-22 22:50:57 INFO  Application:675 - No active profile set, falling back to default profiles: default
+2020-12-22 22:50:58 WARN  ClassPathMapperScanner:44 - No MyBatis mapper was found in '[com.imooc]' package. Please check your configuration.
+2020-12-22 22:50:59 INFO  PostProcessorRegistrationDelegate$BeanPostProcessorChecker:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ccac8e0f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-12-22 22:50:59 INFO  TomcatWebServer:90 - Tomcat initialized with port(s): 8088 (http)
+2020-12-22 22:50:59 INFO  ContextLoader:296 - Root WebApplicationContext: initialization completed in 1749 ms

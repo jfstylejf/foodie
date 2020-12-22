@@ -1,9 +1,9 @@
 
-I
-java:S1135‡"2Complete the task associated to this TODO comment.(ÿÿ§Ð
-}
-java:S4165P"hRemove this useless assignment; "userResult" already holds the assigned value along all execution paths.(¬¨ø
-}
-java:S4165n"hRemove this useless assignment; "userResult" already holds the assigned value along all execution paths.(¬¨ø
 N
 java:S1135ˆ"2Complete the task associated to this TODO comment.(÷â¯½ùÿÿÿÿ
+}
+java:S4165n"hRemove this useless assignment; "userResult" already holds the assigned value along all execution paths.(¬¨ø
+}
+java:S4165P"hRemove this useless assignment; "userResult" already holds the assigned value along all execution paths.(¬¨ø
+I
+java:S1135‡"2Complete the task associated to this TODO comment.(ÿÿ§Ð

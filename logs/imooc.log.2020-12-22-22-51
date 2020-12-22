@@ -1,0 +1,42 @@
+2020-12-22 22:51:01 INFO  ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-22 22:51:01 INFO  MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2020-12-22 22:51:01 INFO  MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2020-12-22 22:51:01 INFO  MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2020-12-22 22:51:01 INFO  MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2020-12-22 22:51:01 INFO  DocumentationPluginsBootstrapper:84 - Context refreshed
+2020-12-22 22:51:01 INFO  DocumentationPluginsBootstrapper:87 - Found 1 custom documentation plugin(s)
+2020-12-22 22:51:01 INFO  ApiListingReferenceScanner:44 - Scanning for api listing references
+2020-12-22 22:51:01 INFO  TomcatWebServer:204 - Tomcat started on port(s): 8088 (http) with context path ''
+2020-12-22 22:51:01 INFO  Application:59 - Started Application in 4.256 seconds (JVM running for 5.234)
+2020-12-22 22:51:08 INFO  DispatcherServlet:524 - Initializing Servlet 'dispatcherServlet'
+2020-12-22 22:51:08 INFO  DispatcherServlet:546 - Completed initialization in 13 ms
+2020-12-22 22:51:08 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryPagedComments =======
+2020-12-22 22:51:08 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryCommentCounts =======
+2020-12-22 22:51:08 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemById =======
+2020-12-22 22:51:08 INFO  HikariDataSource:110 - DataSourceHikariCP - Starting...
+2020-12-22 22:51:09 INFO  HikariDataSource:123 - DataSourceHikariCP - Start completed.
+2020-12-22 22:51:09 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时664 毫秒 =======
+2020-12-22 22:51:09 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemImgList =======
+2020-12-22 22:51:09 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时668 毫秒 =======
+2020-12-22 22:51:09 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时18 毫秒 =======
+2020-12-22 22:51:09 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemSpecList =======
+2020-12-22 22:51:09 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时5 毫秒 =======
+2020-12-22 22:51:09 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemParam =======
+2020-12-22 22:51:09 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时4 毫秒 =======
+2020-12-22 22:51:42 INFO  Version:21 - HV000001: Hibernate Validator 6.0.16.Final
+2020-12-22 22:51:42 INFO  Application:50 - Starting Application on DESKTOP-I28N2U8 with PID 26872 (D:\Project\foodie\foodie-dev\foodie-dev-api\target\classes started by think in D:\Project\foodie\foodie-dev)
+2020-12-22 22:51:42 INFO  Application:675 - No active profile set, falling back to default profiles: default
+2020-12-22 22:51:44 WARN  ClassPathMapperScanner:44 - No MyBatis mapper was found in '[com.imooc]' package. Please check your configuration.
+2020-12-22 22:51:44 INFO  PostProcessorRegistrationDelegate$BeanPostProcessorChecker:330 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$36a621c8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-12-22 22:51:45 INFO  TomcatWebServer:90 - Tomcat initialized with port(s): 8088 (http)
+2020-12-22 22:51:45 INFO  ContextLoader:296 - Root WebApplicationContext: initialization completed in 2113 ms
+2020-12-22 22:51:46 INFO  ThreadPoolTaskExecutor:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-22 22:51:47 INFO  MapperCacheDisabler:60 - Clear tk.mybatis.mapper.util.MsUtil CLASS_CACHE cache.
+2020-12-22 22:51:47 INFO  MapperCacheDisabler:60 - Clear tk.mybatis.mapper.genid.GenIdUtil CACHE cache.
+2020-12-22 22:51:47 INFO  MapperCacheDisabler:60 - Clear tk.mybatis.mapper.version.VersionUtil CACHE cache.
+2020-12-22 22:51:47 INFO  MapperCacheDisabler:83 - Clear EntityHelper entityTableMap cache.
+2020-12-22 22:51:47 INFO  DocumentationPluginsBootstrapper:84 - Context refreshed
+2020-12-22 22:51:47 INFO  DocumentationPluginsBootstrapper:87 - Found 1 custom documentation plugin(s)
+2020-12-22 22:51:47 INFO  ApiListingReferenceScanner:44 - Scanning for api listing references
+2020-12-22 22:51:47 INFO  TomcatWebServer:204 - Tomcat started on port(s): 8088 (http) with context path ''
+2020-12-22 22:51:47 INFO  Application:59 - Started Application in 4.954 seconds (JVM running for 6.13)

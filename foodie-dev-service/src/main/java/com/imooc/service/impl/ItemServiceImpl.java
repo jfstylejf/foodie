@@ -119,7 +119,14 @@ public class ItemServiceImpl implements ItemService {
          * page: 第几页
          * pageSize: 每页显示条数
          */
-        PageHelper.startPage(page, pageSize);
+        PageHelper.startPage(page, pageSize, "content asc");//注意：要排序的字段和排序方法中间要用空格 间隔开
+
+
+//        使用pageHelper插件来分页，只需在执行sql前用即可
+//
+//        String orderBy = 排序字段 + " desc";//按照（数据库）排序字段 倒序 排序   注意：要排序的字段和排序方法中间要用空格 间隔开
+//
+//        PageHelper.startPage(pageNum, pageSize, orderBy)
 
         List<ItemCommentVO> list = itemsMapperCustom.queryItemComments(map);
         for (ItemCommentVO vo : list) {
