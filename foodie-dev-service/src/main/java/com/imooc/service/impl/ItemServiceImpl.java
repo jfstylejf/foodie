@@ -7,6 +7,7 @@ import com.imooc.mapper.*;
 import com.imooc.pojo.*;
 import com.imooc.pojo.vo.CommentLevelCountsVO;
 import com.imooc.pojo.vo.ItemCommentVO;
+import com.imooc.pojo.vo.SearchItemsVO;
 import com.imooc.service.ItemService;
 import com.imooc.utils.DesensitizationUtil;
 import com.imooc.utils.PagedGridResult;
@@ -119,7 +120,7 @@ public class ItemServiceImpl implements ItemService {
          * page: 第几页
          * pageSize: 每页显示条数
          */
-        PageHelper.startPage(page, pageSize, "content asc");//注意：要排序的字段和排序方法中间要用空格 间隔开
+        PageHelper.startPage(page, pageSize, "comment_level asc");//注意：要排序的字段和排序方法中间要用空格 间隔开
 
 
 //        使用pageHelper插件来分页，只需在执行sql前用即可
@@ -143,6 +144,20 @@ public class ItemServiceImpl implements ItemService {
         grid.setTotal(pageList.getPages());
         grid.setRecords(pageList.getTotal());
         return grid;
+    }
+
+    @Transactional(propagation = Propagation.SUPPORTS)
+    @Override
+    public PagedGridResult searhItems(String keywords, String sort, Integer page, Integer pageSize) {
+
+        Map<String, Object> map = new HashMap<>();
+        map.put("keywords", keywords);
+        map.put("sort", sort);
+
+        PageHelper.startPage(page, pageSize);
+        List<SearchItemsVO> list = itemsMapperCustom.searchItems(map);
+
+        return setterPagedGrid(list, page);
     }
 
 }
