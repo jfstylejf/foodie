@@ -1,0 +1,24 @@
+2020-12-24 00:22:05 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.searhItems =======
+2020-12-24 00:22:05 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时15 毫秒 =======
+2020-12-24 00:22:08 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.searhItems =======
+2020-12-24 00:22:08 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时10 毫秒 =======
+2020-12-24 00:22:10 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.searhItems =======
+2020-12-24 00:22:10 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时16 毫秒 =======
+2020-12-24 00:22:12 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.searhItems =======
+2020-12-24 00:22:12 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时9 毫秒 =======
+2020-12-24 00:22:15 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.searhItems =======
+2020-12-24 00:22:15 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时9 毫秒 =======
+2020-12-24 00:22:18 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.searhItems =======
+2020-12-24 00:22:18 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时10 毫秒 =======
+2020-12-24 00:22:19 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.searhItems =======
+2020-12-24 00:22:19 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时9 毫秒 =======
+2020-12-24 00:22:20 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.searhItems =======
+2020-12-24 00:22:20 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时11 毫秒 =======
+2020-12-24 00:22:21 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.searhItems =======
+2020-12-24 00:22:21 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时9 毫秒 =======
+2020-12-24 00:22:21 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.searhItems =======
+2020-12-24 00:22:21 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时7 毫秒 =======
+2020-12-24 00:22:25 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.searhItems =======
+2020-12-24 00:22:25 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时8 毫秒 =======
+2020-12-24 00:22:33 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.searhItems =======
+2020-12-24 00:22:33 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时8 毫秒 =======

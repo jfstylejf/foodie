@@ -87,3 +87,6 @@ t
 Dfoodie-dev-common/src/main/java/com/imooc/utils/PagedGridResult.java,f\d\fd8db1ddb18108b30f9f1144040b84f67db552c2
 x
 Hfoodie-dev-common/src/main/java/com/imooc/utils/DesensitizationUtil.java,1\8\18be102a36d315ae753b7f1f1b83b23bdadfa0b8
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
