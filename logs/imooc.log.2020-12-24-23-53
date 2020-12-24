@@ -1,0 +1,40 @@
+2020-12-24 23:53:01 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo =======
+2020-12-24 23:53:01 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时2 毫秒 =======
+2020-12-24 23:53:04 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo =======
+2020-12-24 23:53:04 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时4 毫秒 =======
+2020-12-24 23:53:07 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo =======
+2020-12-24 23:53:07 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时3 毫秒 =======
+2020-12-24 23:53:10 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo =======
+2020-12-24 23:53:10 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时2 毫秒 =======
+2020-12-24 23:53:13 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo =======
+2020-12-24 23:53:13 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时3 毫秒 =======
+2020-12-24 23:53:16 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo =======
+2020-12-24 23:53:16 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时2 毫秒 =======
+2020-12-24 23:53:19 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo =======
+2020-12-24 23:53:19 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时3 毫秒 =======
+2020-12-24 23:53:22 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo =======
+2020-12-24 23:53:22 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时3 毫秒 =======
+2020-12-24 23:53:25 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo =======
+2020-12-24 23:53:25 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时3 毫秒 =======
+2020-12-24 23:53:28 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo =======
+2020-12-24 23:53:28 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时3 毫秒 =======
+2020-12-24 23:53:31 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo =======
+2020-12-24 23:53:31 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时2 毫秒 =======
+2020-12-24 23:53:34 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo =======
+2020-12-24 23:53:34 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时3 毫秒 =======
+2020-12-24 23:53:37 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo =======
+2020-12-24 23:53:37 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时2 毫秒 =======
+2020-12-24 23:53:40 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo =======
+2020-12-24 23:53:40 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时2 毫秒 =======
+2020-12-24 23:53:43 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo =======
+2020-12-24 23:53:43 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时2 毫秒 =======
+2020-12-24 23:53:46 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo =======
+2020-12-24 23:53:46 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时3 毫秒 =======
+2020-12-24 23:53:49 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo =======
+2020-12-24 23:53:49 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时2 毫秒 =======
+2020-12-24 23:53:52 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo =======
+2020-12-24 23:53:52 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时3 毫秒 =======
+2020-12-24 23:53:55 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo =======
+2020-12-24 23:53:55 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时2 毫秒 =======
+2020-12-24 23:53:58 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.OrderServiceImpl.queryOrderStatusInfo =======
+2020-12-24 23:53:58 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时2 毫秒 =======

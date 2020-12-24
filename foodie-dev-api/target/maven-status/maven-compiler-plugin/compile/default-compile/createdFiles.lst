@@ -1,2 +1,3 @@
 com\imooc\controller\ShopcatController.class
+com\imooc\controller\OrdersController.class
 com\imooc\controller\AddressController.class

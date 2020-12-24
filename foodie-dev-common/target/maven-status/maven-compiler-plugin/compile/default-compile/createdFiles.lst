@@ -1,0 +1,5 @@
+com\imooc\enums\OrderStatusEnum.class
+com\imooc\enums\CommentLevel.class
+com\imooc\enums\Sex.class
+com\imooc\enums\PayMethod.class
+com\imooc\enums\YesOrNo.class

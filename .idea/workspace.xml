@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="42719aba-89d1-4df8-8801-731173b9fe0b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/aspect/ServiceLogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/aspect/ServiceLogAspect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/foodie-dev-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/target/foodie-dev-api-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc/enums/CommentLevel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc/enums/Sex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc/enums/YesOrNo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-common/target/foodie-dev-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-common/target/foodie-dev-common-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/target/foodie-dev-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-pojo/target/foodie-dev-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/foodie-dev-service/target/foodie-dev-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/target/foodie-dev-service-1.0-SNAPSHOT.jar" afterDir="false" />
@@ -55,23 +57,26 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/foodie-dev-common/src/main/java/com/imooc" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.imooc.pojo.bo" />
       <recent name="com.imooc.service.impl" />
       <recent name="com.imooc.service" />
       <recent name="com.imooc.controller" />
+      <recent name="com.imooc.pojo.bo" />
       <recent name="com.imooc.mapper" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\foodie\foodie-dev\foodie-dev-common\src\main\java\com\imooc" />
+      <recent name="D:\Project\foodie\foodie-dev\foodie-dev-common\src\main\java\com\imooc\enums" />
       <recent name="D:\Project\foodie\foodie-dev" />
       <recent name="D:\Project\foodie\foodie-dev\foodie-dev-pojo\src\main\java\com\imooc\pojo\vo" />
       <recent name="D:\Project\foodie\foodie-dev\foodie-dev-mapper\src\main\resources\mapper" />
-      <recent name="D:\Project\foodie\foodie-dev\foodie-dev-api\src\main\resources" />
-      <recent name="D:\Project\foodie\foodie-dev\foodie-dev-api\src\main\java\com\imooc\config" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -216,7 +221,7 @@
       <workItem from="1608737990310" duration="3072000" />
       <workItem from="1608741532836" duration="1074000" />
       <workItem from="1608774813300" duration="166000" />
-      <workItem from="1608791779515" duration="10147000" />
+      <workItem from="1608791779515" duration="14710000" />
     </task>
     <servers />
   </component>

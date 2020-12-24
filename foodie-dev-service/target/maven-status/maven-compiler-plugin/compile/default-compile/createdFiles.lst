@@ -1,2 +1,6 @@
+com\imooc\service\impl\ItemServiceImpl.class
+com\imooc\service\impl\UserServiceImpl.class
 com\imooc\service\AddressService.class
 com\imooc\service\impl\AddressServiceImpl.class
+com\imooc\service\impl\OrderServiceImpl.class
+com\imooc\service\OrderService.class
