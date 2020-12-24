@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42719aba-89d1-4df8-8801-731173b9fe0b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/34c4f8a79872ef767b6c0d29d91a264aa5aa44de" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/34c4f8a79872ef767b6c0d29d91a264aa5aa44de" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/81ccf2ccf48a0dcac4dcca7517ba5f3a3194101b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/81ccf2ccf48a0dcac4dcca7517ba5f3a3194101b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cbf4948a9cab884e91118764c12ec42aa991645e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cbf4948a9cab884e91118764c12ec42aa991645e" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/PassportController.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/controller/PassportController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/aspect/ServiceLogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/src/main/java/com/imooc/aspect/ServiceLogAspect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/foodie-dev-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/target/foodie-dev-api-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/target/foodie-dev-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-pojo/target/foodie-dev-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foodie-dev-service/target/foodie-dev-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/foodie-dev-service/target/foodie-dev-service-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/imooc.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/imooc.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,10 +61,10 @@
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.imooc.pojo.bo" />
+      <recent name="com.imooc.service.impl" />
+      <recent name="com.imooc.service" />
       <recent name="com.imooc.controller" />
       <recent name="com.imooc.mapper" />
-      <recent name="com.imooc.pojo.vo" />
-      <recent name="com.imooc.enums" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Project\foodie\foodie-dev" />
@@ -216,7 +216,7 @@
       <workItem from="1608737990310" duration="3072000" />
       <workItem from="1608741532836" duration="1074000" />
       <workItem from="1608774813300" duration="166000" />
-      <workItem from="1608791779515" duration="1205000" />
+      <workItem from="1608791779515" duration="10147000" />
     </task>
     <servers />
   </component>

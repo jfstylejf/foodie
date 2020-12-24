@@ -45,7 +45,7 @@ public class ServiceLogAspect {
         // 记录开始时间
         long begin = System.currentTimeMillis();
 
-        //执行目标service
+        // 执行目标service
         Object result = joinPoint.proceed();
 
         // 记录结束时间

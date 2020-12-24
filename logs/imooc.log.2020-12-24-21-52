@@ -1,0 +1,20 @@
+2020-12-24 21:52:05 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.AddressServiceImpl.addNewUserAddress =======
+2020-12-24 21:52:05 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时18 毫秒 =======
+2020-12-24 21:52:05 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.AddressServiceImpl.queryAll =======
+2020-12-24 21:52:05 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时4 毫秒 =======
+2020-12-24 21:52:16 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.AddressServiceImpl.addNewUserAddress =======
+2020-12-24 21:52:16 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时6 毫秒 =======
+2020-12-24 21:52:16 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.AddressServiceImpl.queryAll =======
+2020-12-24 21:52:16 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时3 毫秒 =======
+2020-12-24 21:52:23 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.AddressServiceImpl.updateUserAddressToBeDefault =======
+2020-12-24 21:52:23 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时7 毫秒 =======
+2020-12-24 21:52:23 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.AddressServiceImpl.queryAll =======
+2020-12-24 21:52:23 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时3 毫秒 =======
+2020-12-24 21:52:24 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.AddressServiceImpl.updateUserAddressToBeDefault =======
+2020-12-24 21:52:24 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时6 毫秒 =======
+2020-12-24 21:52:24 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.AddressServiceImpl.queryAll =======
+2020-12-24 21:52:24 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时2 毫秒 =======
+2020-12-24 21:52:29 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.AddressServiceImpl.updateUserAddress =======
+2020-12-24 21:52:29 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时1 毫秒 =======
+2020-12-24 21:52:29 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.AddressServiceImpl.queryAll =======
+2020-12-24 21:52:29 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时3 毫秒 =======

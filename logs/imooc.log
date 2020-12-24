@@ -1,32 +1,4 @@
-2020-12-24 15:10:00 INFO  HikariDataSource:123 - DataSourceHikariCP - Start completed.
-2020-12-24 15:10:00 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时957 毫秒 =======
-2020-12-24 15:10:00 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时963 毫秒 =======
-2020-12-24 15:10:00 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy =======
-2020-12-24 15:10:00 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时48 毫秒 =======
-2020-12-24 15:10:08 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.UserServiceImpl.queryUserForLogin =======
-2020-12-24 15:10:08 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时15 毫秒 =======
-2020-12-24 15:10:14 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.UserServiceImpl.queryUserForLogin =======
-2020-12-24 15:10:14 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时7 毫秒 =======
-2020-12-24 15:10:14 INFO  CookieUtils:210 - ========== domainName: localhost ==========
-2020-12-24 15:10:14 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CarouselServiceImpl.queryAll =======
-2020-12-24 15:10:14 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.queryAllRootLevelCat =======
-2020-12-24 15:10:14 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时4 毫秒 =======
-2020-12-24 15:10:14 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时7 毫秒 =======
-2020-12-24 15:10:14 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy =======
-2020-12-24 15:10:14 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时7 毫秒 =======
-2020-12-24 15:10:39 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy =======
-2020-12-24 15:10:39 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.CategoryServiceImpl.getSixNewItemsLazy =======
-2020-12-24 15:10:39 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时12 毫秒 =======
-2020-12-24 15:10:39 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时6 毫秒 =======
-2020-12-24 15:10:40 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemById =======
-2020-12-24 15:10:40 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryCommentCounts =======
-2020-12-24 15:10:40 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryPagedComments =======
-2020-12-24 15:10:40 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时10 毫秒 =======
-2020-12-24 15:10:40 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemImgList =======
-2020-12-24 15:10:40 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时6 毫秒 =======
-2020-12-24 15:10:40 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemSpecList =======
-2020-12-24 15:10:40 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时30 毫秒 =======
-2020-12-24 15:10:40 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时59 毫秒 =======
-2020-12-24 15:10:40 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.ItemServiceImpl.queryItemParam =======
-2020-12-24 15:10:40 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时85 毫秒 =======
-2020-12-24 15:10:40 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时15 毫秒 =======
+2020-12-24 21:53:35 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.AddressServiceImpl.deleteUserAddress =======
+2020-12-24 21:53:35 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时2 毫秒 =======
+2020-12-24 21:53:35 INFO  ServiceLogAspect:41 - ======= 开始执行 class com.imooc.service.impl.AddressServiceImpl.queryAll =======
+2020-12-24 21:53:35 INFO  ServiceLogAspect:60 - ======= 执行结束，耗时2 毫秒 =======
